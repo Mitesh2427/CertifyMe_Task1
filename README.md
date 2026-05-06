@@ -5,7 +5,7 @@
 ### Clone Repository
 
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/Mitesh2427/CertifyMe_Task1>
 cd Test1
 ```
 
